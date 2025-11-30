@@ -1,1 +1,3 @@
-# Badge
+# Badge.js
+
+console.log("Hello js");
